@@ -15,3 +15,5 @@ gõ trong terminal
 $ locust
 
 link chi tiết hướng dẫn https://docs.locust.io/en/stable/installation.html
+
+vào link localhost:8089 để chạy chương trình
